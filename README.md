@@ -149,4 +149,6 @@ streamlit run "D:\ML PROJECTS\Face Mask Detection\app.py"
 
 - Improve recall for `Incorrect Mask` class  
 - Real-time webcam detection  
-- Deploy to HuggingFace or Streamlit Cloud  
+- Deploy to HuggingFace or Streamlit Cloud
+
+  
